@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AI Help Extension",
   "version": "0.1",
-  "author": "Varun Somani",
+  "author": "Aditya",
   "description": "A Chrome Extension that provides AI assistance on maang.in",
   "permissions": [
     "storage",
