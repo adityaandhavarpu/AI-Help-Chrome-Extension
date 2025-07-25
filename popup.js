@@ -8,7 +8,7 @@ saveButton.addEventListener("click", () => {
   messageContainer.style.display = "block";
 
   if (apiKey) {
-    chrome.storage.local.set({ "api-key": apiKey }, () => {
+    chrome.storage.local.set({ "openai-api-key": apiKey }, () => {
       messageContainer.textContent =
         "API Key saved successfully. You can now start using the extension.";
 
