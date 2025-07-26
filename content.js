@@ -1,4 +1,4 @@
-// ✅ content.js (Modified for OpenAI)
+
 
 const aiHelpImgURL = chrome.runtime.getURL("assets/ai-help-white.png");
 
